@@ -2,7 +2,7 @@
 
 AdiBags users can temporarily install this addon to migrate bag
 categories to the replacement BetterBags addon. Only the categories in
-the default profile is migrated.
+the default profile are migrated.
 
 Usage: At the in-game chat prompt, type /bbfadi
 
